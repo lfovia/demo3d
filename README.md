@@ -1,7 +1,5 @@
-//------// Lab FOr Video And Image Analysis (LFOVIA) //------//
-//------// Depth- and motion-based 3-D video quality evaluator (DeMo3D).  //------//
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+-- Depth- and motion-based 3-D video quality evaluator (DeMo3D).
 A) If you are using DeMo3D code please cite this paper.
 Appina, S. S. Channappayya, “Full-Reference 3D Video Quality Assessment Using Scene Component Statistical Dependencies,” IEEE Signal Processing Letters DOI: 10.1109/LSP.2018.2829107.
 
