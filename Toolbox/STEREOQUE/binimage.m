@@ -1,0 +1,12 @@
+function bin_image=binimage(coeff_temp)
+% num=3;
+% bin_num=200;
+% mean_temp = mean ( coeff_temp );
+%         std_temp = std ( coeff_temp );
+%         bin_beg = mean_temp -num*std_temp;
+%         bin_end = mean_temp + num*std_temp;
+%         bin_int = (bin_end-bin_beg) / bin_num;
+%         bin_image = bin_beg:bin_int:bin_end;
+bin_beg=min(coeff_temp);
+bin_end=max(coeff_temp);
+bin_image=bin_beg:(bin_end-bin_beg)/199:bin_end;
